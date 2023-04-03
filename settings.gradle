@@ -1,0 +1,5 @@
+
+rootProject.name = "OpenCVApplication"
+include ':app'
+include ':nativelib'
+include ':nativelib2'
